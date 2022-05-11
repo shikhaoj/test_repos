@@ -3,5 +3,7 @@ public class CherryPickClass {
         System.out.println("cherry-pick 1");
         System.out.println("cherry-pick 2");
         System.out.println("cherry-pick 3");
+        System.out.println("cherry-pick 4");
+        System.out.println("cherry-pick 5");
     }
 }
