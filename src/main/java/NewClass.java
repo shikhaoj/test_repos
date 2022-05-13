@@ -3,6 +3,7 @@ public class NewClass {
         System.out.println("Hello");
         System.out.println("New Merge");
         System.out.println("Your another print statement");
+        System.out.println("new branch 3");
     }
 }
 
